@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jo1cindi
-- 👀 I’m interested in Frontend design and frontend development 
-- 🌱 I’m currently learning Recact, Css and Javascript
+- 👋 Hi, I’m Cindy Joan
+- 👀 I am a frontend developer  
+- 🌱 I am proficient in React, JavaScript, HTML, CSS, Node J's, API integration 
 - 💞️ I’m looking to collaborate on Frontend development projects
 - 📫 How to reach me: joancindi535@gmil.com
 
