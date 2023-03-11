@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cindy Joan
-- 👀 I am a Web developer  
-- 🌱 I am proficient in React, JavaScript, HTML, CSS, Node J's, API integration 
-- 💞️ I’m looking to collaborate on Frontend development projects
+- 👀 I am a software developer  
+- 🌱 I am proficient in React, JavaScript, HTML, CSS, Node Js, API integration 
+- 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me: cindyjoan2000@gmail.com
 
 <!---
